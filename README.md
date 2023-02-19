@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/oddin-ai/oddin-tags">
-    <img src="images/logo.png" alt="Logo" width="260" height="60">
+    <img src="images/oddin_logo_sm.png" alt="Logo" width="62" height="80">
   </a>
 
 <h3 align="center">Oddin javascript browser tags</h3>
